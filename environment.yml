@@ -9,7 +9,6 @@ dependencies:
     - numpy <= 1.21.4
     - pandas
     - pip
-   # - pymc
     - pymc3
     - python
     - scikit-learn
