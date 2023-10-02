@@ -3,17 +3,15 @@ channels:
     - conda-forge
 dependencies:
     - colorcet
-    - jupyterlab
+    - jupyter
     - ipython
     - matplotlib
-    - numpy <= 1.21.4
+    - numpy <= 1.19.5
     - pandas
     - pip
-    - pymc3
+    - pymc3 <= 3.11.4
     - python
     - scikit-learn
-    - scipy <= 1.7.2
+    - scipy
     - sqlalchemy
     - statsmodels
-    - pip:
-      - uszipcode <= 0.2.6
